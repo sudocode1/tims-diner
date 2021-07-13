@@ -5,6 +5,7 @@ this is GCSE NEA works from a few years back that i got assigned for computer sc
 - there was some really specific foods and prices but i didnt follow those
 - allow for a main side and drink to be picked
 - give the user a price once they pick and submit their order
+- save the order and price to a file
 
 ## other stuff
 - my teacher said i should do it in python because that is what i need for gcse
