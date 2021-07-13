@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif;
+    
+}
+
+button {
+    border-radius: 5%;
+    transition: 0.5s;
+    background-color: transparent;
+    color:black
+}
+
+button:hover {
+    background-color:crimson;
+    color: white;
+}
+
